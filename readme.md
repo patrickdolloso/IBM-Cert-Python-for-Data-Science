@@ -1,7 +1,7 @@
 # IBM Certificate (Notes): Python for Data Science
 ## Certification
 * Part of the [IBM Data Science Foundations Badge Level 2](https://www.youracclaim.com/badges/e022257e-50dd-4523-b3c5-f6a4d70ac3ad) - Applied Data Sciece with Python  
-![2](./img/2.png)
+![2](./img/2.png)  
 ![1](./img/1.PNG)
 * [click to verify](https://courses.cognitiveclass.ai/certificates/5e48a35c56f641449c5537b3638de159)
 ## Overview
